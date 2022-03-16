@@ -1,0 +1,19 @@
+{
+  "name": "toby-el-cordial",
+  "version": "0.0.1",
+  "description": "Un bot de discord sumiso.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "minecraft-server-util": "^3.6.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "@types/assert": "^1.5.6"
+  }
+}
